@@ -105,4 +105,9 @@ class IndexControllerTest implements ControllerTests {
     @Test
     void testIfUserFred() {
     }
+
+    @Test
+    void testCircleCi(){
+        System.out.println("Circle Ci Run this time also!!!!");
+    }
 }
